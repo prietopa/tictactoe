@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">tictactoe</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="new_game_str">Nuevo Juego</string>
+    <string name="options_str">Opciones</string>
+    <string name="about_str">Sobre</string>
+    <string name="title_activity_board">BoardActivity</string>
+    <string name="return_str">Volver</string>
+    <string name="help_str">Ayuda</string>
+    <string name="title_activity_help">HelpActivity</string>
+    <string name="ayuda_content_str">\tEste es el juego del tic tac toe. Un juego muy sencillo que consiste en poner tres fichas en linea, tanto en: horizontal, vertical, como en diagonal. \n\n\tEs tan sencilo que aqui debajo tienes todos los posibles movimientos.\n\n</string>
+    <string name="mapO_description">Arbol con todos los posibles movimientos.</string>
+    <string name="title_activity_options">OptionsActivity</string>
+    <string name="easy_str">Facil</string>
+    <string name="medium_str">Medio</string>
+    <string name="hard_str">Dificil</string>
+    <string name="options_title_str">Opciones</string>
+    <string name="options_text">Seleccione el nivel de dificultad</string>
+    <string name="draw_game">Draw!</string>
+    <string name="nought_win_game">Nought win!</string>
+    <string name="cross_win_game">Cross win!</string>
+    <string name="restart_game">Restart Game?</string>
+    <string name="question_title">Question</string>
+    <string name="message_title">Message</string>
+
+</resources>
